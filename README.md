@@ -56,7 +56,7 @@ My experience in different business environments i.e healthcare, sports betting,
 [php-url]: https://www.php.net
 <!-- markdown languages -->
 [html-shield]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-[html-url]: https://www.html.it/
+[html-url]: https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
 [css-shield]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
 [css-url]: https://www.w3schools.com/css/
 <!-- Engine & IDE -->
