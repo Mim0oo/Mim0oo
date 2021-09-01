@@ -32,6 +32,37 @@ My experience in different business environments i.e healthcare, sports betting,
 <details>	
   <summary><b>⚡ Github public Stats</b></summary>
 
-<img height="180em" src="https://github-readme-stats.Mim0oo.vercel.app/api?username=Mim0oo&show_icons=true&locale=en&hide_border=true" alt="Mim0oo" />
-<img height="180em" src="https://github-readme-stats.Mim0oo.vercel.app/api/top-langs?username=Mim0oo&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="Mim0oo"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mim0oo&show_icons=true&locale=en&hide_border=true" alt="Mim0oo" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mim0oo&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="Mim0oo"/>
 </details>
+
+<!-- OS -->
+[linux-shield]: https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black
+[linux-url]: https://www.linux.org/
+[debian-shield]: https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white
+[debian-url]: https://www.debian.org/
+[android-shield]: https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
+[android-url]: https://www.android.com/
+[windows-shield]: https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
+[windows-url]: https://www.youtube.com/watch?v=zjedLeVGcfE&t=11s
+[docker-shield]: https://img.shields.io/badge/Docker-1572B6?style=for-the-badge&logo=docker&logoColor=white
+[docker-url]: https://docker.io
+<!-- programming languages -->
+[c-shield]: https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
+[c-url]: http://www.open-std.org/jtc1/sc22/wg14/
+[bash-shield]: https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white
+[bash-url]: https://www.gnu.org/software/bash/
+[javascript-shield]: https://img.shields.io/badge/JavaScript-FFDD00?style=for-the-badge&logo=javascript&logoColor=black
+[javascript-url]: https://www.javascript.com/
+[php-shield]: https://img.shields.io/badge/PHP-1572B6?style=for-the-badge&logo=PHP&logoColor=white
+[php-url]: https://www.php.net
+<!-- markdown languages -->
+[html-shield]: https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[html-url]: https://www.html.it/
+[css-shield]: https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[css-url]: https://www.w3schools.com/css/
+<!-- Engine & IDE -->
+[vs-shield]: https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
+[vs-url]: https://visualstudio.microsoft.com/
+[sublime-shield]: https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important
+[sublime-url]: https://www.sublimetext.com/
