@@ -31,8 +31,6 @@ My experience in different business environments i.e healthcare, sports betting,
 <h2>ℹ️hsp;Github Info</h2>
 <details>	
   <summary><b>⚡ Github public Stats</b></summary>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mim0oo&show_icons=true&locale=en&hide_border=true" alt="Mim0oo" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mim0oo&show_icons=true&locale=en&layout=compact&langs_count=7&hide_border=true&hide=c" alt="Mim0oo"/>
 </details>
 
