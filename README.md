@@ -10,7 +10,7 @@ My experience in different business environments i.e healthcare, sports betting,
 
 ### More about me:
 
-- 🏢 Currently working at MentorMate
+- 🏢 Currently working at #newopportunities
 - 🏠 Working remotely from home
 - 💻 I love exploring new tech stack and powering development teams to build cool stuffs
 
